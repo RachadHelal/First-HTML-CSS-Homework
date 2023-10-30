@@ -1,6 +1,25 @@
+html{
+    background-color: beige;
+}
+
 div{
     margin: 0 auto;
     width: 600px;
+}
+
+.author-name{
+    margin: 0;
+    font-size: 14px;
+}
+
+.date{
+    margin: 0;
+    font-size: 11px;
+    color: gray;
+}
+
+img{
+    margin: 30px;
 }
 
 .suppressed-stress{
